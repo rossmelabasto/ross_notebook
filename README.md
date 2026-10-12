@@ -12,7 +12,7 @@ Write, paste, snap the whiteboard or record a voice note. Then ask your notes, s
 ![Node 24+](https://img.shields.io/badge/node-%E2%89%A524-6b4dff.svg)
 ![PWA](https://img.shields.io/badge/PWA-installable-6b4dff.svg)
 
-[Live demo](https://notebook.rossmel.top) · [Self-hosting](#self-hosting) · [How it works](docs/ARCHITECTURE.md) · [Changelog](CHANGELOG.md) · [Español](README.es.md)
+[Live demo](https://notebook.rossmel.com) · [Self-hosting](#self-hosting) · [How it works](docs/ARCHITECTURE.md) · [Changelog](CHANGELOG.md) · [Español](README.es.md)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/desktop-dark.webp" />
@@ -131,4 +131,4 @@ The code is organized as `routes/` (HTTP API), `lib/` (database and migrations, 
 
 ## License
 
-[MIT](LICENSE) © Rossmel Abasto — [portfolio.rossmel.top](https://portfolio.rossmel.top)
+[MIT](LICENSE) © Rossmel Abasto — [portfolio.rossmel.com](https://portfolio.rossmel.com)

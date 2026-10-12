@@ -24,12 +24,12 @@
     "node": ">=24"
   },
   "license": "MIT",
-  "author": "Rossmel Abasto (https://portfolio.rossmel.top)",
+  "author": "Rossmel Abasto (https://portfolio.rossmel.com)",
   "repository": {
     "type": "git",
     "url": "https://github.com/rossmelabasto/ross_notebook.git"
   },
-  "homepage": "https://notebook.rossmel.top",
+  "homepage": "https://notebook.rossmel.com",
   "keywords": [
     "notes",
     "rag",

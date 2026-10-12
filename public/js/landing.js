@@ -7,7 +7,7 @@ import { api } from './core.js';
 import { startDemo } from './demo.js';
 
 export const REPO_URL = 'https://github.com/rossmelabasto/ross_notebook';
-export const PORTFOLIO_URL = 'https://portfolio.rossmel.top';
+export const PORTFOLIO_URL = 'https://portfolio.rossmel.com';
 
 const link = (cls, href, children, external = true) => {
   const a = el('a', cls);
@@ -66,7 +66,7 @@ export async function renderLanding() {
   const showcase = el('div', 'l-showcase reveal');
   const win = el('div', 'l-window');
   const bar = el('div', 'l-window-bar');
-  bar.append(el('i'), el('i'), el('i'), el('span', null, 'notebook.rossmel.top'));
+  bar.append(el('i'), el('i'), el('i'), el('span', null, 'notebook.rossmel.com'));
   const desk = el('img', 'l-shot');
   desk.src = shot('desktop');
   desk.alt = t('land.altDesktop');

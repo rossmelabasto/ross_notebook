@@ -7,7 +7,7 @@
 **Tus apuntes como un chat contigo mismo, con memoria.**<br/>
 Escribe, pega, sácale foto a la pizarra o graba una nota de voz. Después pregúntale a tus apuntes, búscalos al instante y estudia con flashcards hechas con lo que *tú* escribiste.
 
-[Demo en vivo](https://notebook.rossmel.top) · [Instalarlo](#instalarlo-en-tu-servidor) · [Cómo funciona](docs/ARCHITECTURE.md) · [English](README.md)
+[Demo en vivo](https://notebook.rossmel.com) · [Instalarlo](#instalarlo-en-tu-servidor) · [Cómo funciona](docs/ARCHITECTURE.md) · [English](README.md)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/screenshots/desktop-dark.webp" />
@@ -56,4 +56,4 @@ Estructura: `routes/` (API), `lib/` (base y migraciones, RAG, proveedores de IA,
 
 ## Licencia
 
-[MIT](LICENSE) © Rossmel Abasto — [portfolio.rossmel.top](https://portfolio.rossmel.top)
+[MIT](LICENSE) © Rossmel Abasto — [portfolio.rossmel.com](https://portfolio.rossmel.com)
